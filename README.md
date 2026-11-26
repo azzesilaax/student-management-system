@@ -86,3 +86,13 @@ python main.py
 ```bash
 python -m unittest discover -s tests -v
 ```
+
+## Student implementation class — testing assignment
+
+See [TEST_CASES.md](TEST_CASES.md) for five documented test cases and [TEST_RESULTS.txt](TEST_RESULTS.txt) for execution results. The new tests are in `tests/test_student.py`.
+
+Run the student-specific tests:
+
+```bash
+python -m unittest discover -s tests -p test_student.py -v
+```

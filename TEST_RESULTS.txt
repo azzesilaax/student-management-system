@@ -1,0 +1,14 @@
+test_course_capacity_is_enforced (test_models.StudentManagementTests.test_course_capacity_is_enforced) ... ok
+test_duplicate_enrollment_is_rejected (test_models.StudentManagementTests.test_duplicate_enrollment_is_rejected) ... ok
+test_instructor_can_be_assigned_to_course (test_models.StudentManagementTests.test_instructor_can_be_assigned_to_course) ... ok
+test_student_can_enroll (test_models.StudentManagementTests.test_student_can_enroll) ... ok
+test_duplicate_enrollment (test_student.TestStudent.test_duplicate_enrollment) ... ok
+test_full_course (test_student.TestStudent.test_full_course) ... ok
+test_get_courses (test_student.TestStudent.test_get_courses) ... ok
+test_student_creation (test_student.TestStudent.test_student_creation) ... ok
+test_student_enrollment (test_student.TestStudent.test_student_enrollment) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.001s
+
+OK
